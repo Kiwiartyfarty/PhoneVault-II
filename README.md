@@ -1,7 +1,7 @@
 
 <img width="1312" height="815" alt="image" src="https://github.com/user-attachments/assets/d47b0629-b4bd-4f52-a95a-e76ef44618dc" />
 
-PhoneVault II for iPhone & Huawei/Android 
+PhoneVault II for iPhone & Huawei/Android -  Mac Software
 
 PhoneVault II is an offline, account-free desktop data terminal for Mac that gives you direct, cable-backed control over your iPhone and Huawei/Android devices. Back up full iPhone snapshots on demand, browse phone storage, preview and transfer photos or media, and manage local backups without cloud bloat or background schedules—all wrapped in switchable themes like Wasteland, Neon, Synthwave, Plain dark, and Light.
 
